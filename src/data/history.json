@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "BPS Pati",
+    "startDate": "Saiful Amin R, Ahmad Fery R ",
+    "endDate": "2 months",
+    "experiences": ["Make a website", "Data Anlysis"],
+    "imageSrc": "history/bps.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "PT ABISEKA",
+    "startDate": "Dimas Putra M, Tri Setyobudi",
+    "endDate": "2 months",
+    "experiences": ["Make an absence application (Frontend)", "Make an Car Servisce application (Frontend)"],
+    "imageSrc": "history/abiseka.png"
+  }
+]

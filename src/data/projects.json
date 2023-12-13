@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Ahmad Fery Rozali",
+    "imageSrc": "projects/github.png",
+    "description": "This is github to see the projects that have been created.",
+    "skills": ["Html", "Css", "React"],
+    "source": "https://github.com/AhmadFeryRozali"
+  },
+  {
+    "title": "Dimas Putra Mawardi",
+    "imageSrc": "projects/github.png",
+    "description": "This is github to see the projects that have been created.",
+    "skills": ["React", "Go", "Node", "Flutter"],
+    "source": "https://www.github.com/dimasputra011"
+  },
+  {
+    "title": "Saiful Amin Rizki",
+    "imageSrc": "projects/github.png",
+    "description": "This is github to see the projects that have been created.",
+    "skills": ["Python", "React", "Html", "Css"],
+    "source": "https://github.com/SAR09"
+  },
+  {
+    "title": "Tri Setyobudi",
+    "imageSrc": "projects/github.png",
+    "description": "This is github to see the projects that have been created.",
+    "skills": ["Flutter", "Html", "Css"],
+    "source": "https://www.github.com"
+  }
+]
